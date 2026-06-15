@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Jayanth B N 👋
 
-<!--
-**Jay4616/Jay4616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring DevOps Engineer currently upskilling through intensive, hands-on infrastructure automation and cloud management challenges. 
 
-Here are some ideas to get you started:
+- 🚀 **Currently Focusing On:** Completing the **#90DaysOfDevOps** challenge with TrainWithShubham.
+- 🛠️ **Tech Stack & Tools:** Linux, Git/GitHub, Python, Shell Scripting, Docker (Learning in progress).
+- 📈 **Goal:** Automating repetitive infrastructure tasks and building robust CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Featured Repositories
+
+* 🚀 [90-Days-Of-DevOps](./90-Days-Of-DevOps) - Daily tasks, notes, and proof-of-work tracking.
+* 🐚 [shell-scripts](./shell-scripts) - Production-ready automation, backup tools, and parsing utilities.
+* 🐍 [python-devops-scripts](./python-devops-scripts) - System monitors, dictionary parsers, and API integrations.
+* 📚 [devops-notes](./devops-notes) - Organized markdown cheat sheets, architecture blueprints, and commands.
+
+---
+
+### 🤝 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/jayanth-bn)
+* 📧 **Email:** jayanthbn2001@gmail.com
