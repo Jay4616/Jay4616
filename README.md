@@ -19,5 +19,5 @@ I am an aspiring DevOps Engineer currently upskilling through intensive, hands-o
 
 ### 🤝 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/jayanth-bn)
+* 💼 **LinkedIn:** www.linkedin.com/in/jayanth-bn
 * 📧 **Email:** jayanthbn2001@gmail.com
