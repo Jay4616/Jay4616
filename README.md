@@ -1,23 +1,27 @@
-# Hi there, I'm Jayanth B N 👋
+# # Hi there, I'm Jayanth B N 👋
 
-I am an aspiring DevOps Engineer currently upskilling through intensive, hands-on infrastructure automation and cloud management challenges. 
+I am an aspiring DevOps Engineer focused on building high-availability cloud infrastructure, reliable CI/CD automation pipelines, and infrastructure-as-code workflows.
 
-- 🚀 **Currently Focusing On:** Completing the **#90DaysOfDevOps** challenge with TrainWithShubham.
-- 🛠️ **Tech Stack & Tools:** Linux, Git/GitHub, Python, Shell Scripting, Docker (Learning in progress).
-- 📈 **Goal:** Automating repetitive infrastructure tasks and building robust CI/CD pipelines.
-
----
-
-### 📂 Featured Repositories
-
-* 🚀 [90-Days-Of-DevOps](./90-Days-Of-DevOps) - Daily tasks, notes, and proof-of-work tracking.
-* 🐚 [shell-scripts](./shell-scripts) - Production-ready automation, backup tools, and parsing utilities.
-* 🐍 [python-devops-scripts](./python-devops-scripts) - System monitors, dictionary parsers, and API integrations.
-* 📚 [devops-notes](./devops-notes) - Organized markdown cheat sheets, architecture blueprints, and commands.
+- 🚀 **Currently Focusing On:** Completing the **#90DaysOfDevOps** challenge with TrainWithShubham—actively translating complex engineering concepts into production-ready repositories.
+- ⚙️ **Core Mission:** Eliminating "works on my machine" bottlenecks by engineering predictable runtime environments and automated delivery streams.
 
 ---
 
-### 🤝 Connect with Me
+## 🛠️ Tech Stack & Tools
 
-* 💼 **LinkedIn:** www.linkedin.com/in/jayanth-bn
-* 📧 **Email:** jayanthbn2001@gmail.com
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Automation & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) |
+| **Scripting & Development** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+
+---
+
+## 📂 Featured Repositories
+
+* 🚀 **[90-Days-Of-DevOps](./90DaysOfDevOps)** – Daily task implementation, live cloud pipeline logs, and architecture proof-of-work tracking.
+* 🐳 **[github-actions-practice](./github-actions-practice)** – Live cloud-hosted automated pipelines utilizing marketplace workflows, context variables, and runner debugging.
+* 📜 **[shell-scripts](./shell-scripts)** – Production-ready system automation tools, scheduled backup scripts, and log parsing utilities.
+* 🐍 **[python-devops-scripts](./python-devops-scripts)** – System health monitors, custom API integrations, and directory/dictionary parsers.
